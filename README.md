@@ -26,6 +26,7 @@ https://www.jetbrains.com/idea/download/#section=mac
 •	Download the command line build tools from Apple (Find/Search ‘Command Line Tools’ for you Xcode version), open the .dmg file -> double click the .pkg file and go through the installation process.
 
 •	Install Java 8
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
  
 Find the download link that fits your operating system
