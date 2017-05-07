@@ -19,6 +19,7 @@ Type this commands:
 4. $ appium & 				 	  #start appium
 ```
 •	Download IntelliJ
+https://www.jetbrains.com/idea/download/#section=mac
 
 •	Install Xcode 8 from Mac app store
 
@@ -108,6 +109,7 @@ Check if you ANDROID_HOME Defined:
 $ open ~/.bash_profile
 	
 	.bash_profile file
+```
 export ANDROID_HOME=/Users/{YOUR_PATH}/Library/Android/sdk
 export ANDROID_SDK=$ANDROID_HOME
 PATH=$PATH:/Applications/apache-ant-1.8.4/bin
@@ -118,8 +120,7 @@ PATH=$PATH:$ANDROID_HOME/tools
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home
 export PATH=$JAVA_HOME/bin:$PATH
 export PATH
-
-
+```
 
 
 
