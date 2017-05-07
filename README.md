@@ -1,11 +1,10 @@
 # appium-sample
 
 
-•	Downloading Appium
+###### Downloading Appium
 
-1.	Go to your terminal
 
-# brew
+###### brew
 If you don’t have brew installed – install via this command: (make sure you are NOT using sudo)
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -18,17 +17,15 @@ Type this commands:
 3. $ npm install wd 				  #get appium client
 4. $ appium & 				 	  #start appium
 ```
-•	Download IntelliJ
+###### Download IntelliJ
 https://www.jetbrains.com/idea/download/#section=mac
 
 •	Install Xcode 8 from Mac app store
 
 •	Download the command line build tools from Apple (Find/Search ‘Command Line Tools’ for you Xcode version), open the .dmg file -> double click the .pkg file and go through the installation process.
 
-•	Install Java 8
+###### Install Java 8
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
-
- 
 Find the download link that fits your operating system
 
 
