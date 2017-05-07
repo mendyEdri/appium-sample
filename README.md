@@ -5,15 +5,19 @@
 
 1.	Go to your terminal
 
-•	brew
-If you don’t have brew installed – install via this command: (make sure you are not using sudo when 	)
+# brew
+If you don’t have brew installed – install via this command: (make sure you are NOT using sudo)
+```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 Type this commands: 
-1. $ brew install node                          #installing node.js 
+```
+1. $ brew install node                       
 2. $ npm install -g appium 			  #get appium
 3. $ npm install wd 				  #get appium client
 4. $ appium & 				 	  #start appium
+```
 •	Download IntelliJ
 
 •	Install Xcode 8 from Mac app store
