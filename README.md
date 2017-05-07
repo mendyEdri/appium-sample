@@ -26,6 +26,7 @@ https://www.jetbrains.com/idea/download/#section=mac
 
 #### Install Java 8
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
+
 Find the download link that fits your operating system
 
 
