@@ -10,12 +10,13 @@ If you don’t have brew installed – install via this command: (make sure you 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-Type this commands: 
+Type these commands: 
 ```
 1. $ brew install node                       
 2. $ npm install -g appium 			  #get appium
 3. $ npm install wd 				  #get appium client
 4. $ appium & 				 	  #start appium
+If the installation was successful you will be prompt with a welcome message
 ```
 #### Download IntelliJ
 https://www.jetbrains.com/idea/download/#section=mac
@@ -55,7 +56,7 @@ $ authorize-ios
 ```
 $ npm install –g appium-doctor
 #run appium-doctor with flag –-ios/--android to check if dependencies are met. i.e:
-$ appium-doctor –ios
+$ appium-doctor -–ios
 ```
 
 #### New Project: 
