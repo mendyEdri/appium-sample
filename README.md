@@ -88,7 +88,7 @@ $ carthage update --platform iOS
 ```
 ###### Create Xcode build, navigate to your xcode proj folder and run this:
 ```
-$ xcodebuild -sdk iphonesimulator
+$ xcodebuild -sdk iphonesimulator -scheme CWT
 $ npm install -g ios-deploy
 $ brew install carthage ./Scripts/bootstrap.sh –d
 ```
