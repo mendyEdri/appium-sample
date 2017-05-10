@@ -20,10 +20,17 @@ If the installation was successful you will be prompt with a welcome message
 ```
 #### Download IntelliJ
 https://www.jetbrains.com/idea/download/#section=mac
-
+#### Download XCode
 •	Install Xcode 8 from Mac app store
 
-•	Download the command line build tools from Apple (Find/Search ‘Command Line Tools’ for you Xcode version), open the .dmg file -> double click the .pkg file and go through the installation process.
+•	Download the command 
+
+
+
+#### Download XCode Command Line Tools
+
+https://developer.apple.com/download/more/
+build tools from Apple (Find/Search ‘Command Line Tools’ for your Xcode version), open the .dmg file -> double click the .pkg file and go through the installation process.
 
 #### Install Java 8
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
