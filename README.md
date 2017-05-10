@@ -62,8 +62,11 @@ $ authorize-ios
 #### Install appium-doctor
 ```
 $ npm install –g appium-doctor
-#run appium-doctor with flag –-ios/--android to check if dependencies are met. i.e:
+# You can run an appium doctor check to get the status of the appium installation
+
 $ appium-doctor -–ios
+$ appium-doctor -–android
+
 ```
 
 #### New Project: 
