@@ -62,10 +62,13 @@ $ authorize-ios
 #### Install appium-doctor
 ```
 $ npm install –g appium-doctor
-# You can run an appium doctor check to get the status of the appium installation
+# You can run an appium doctor check at any stage to get the status of the appium installation.
 
+Run an appium doctor check to verify previous steps.
 $ appium-doctor -–ios
 $ appium-doctor -–android
+
+You should get "Everything looks good, bye!"
 
 ```
 
