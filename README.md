@@ -87,12 +87,12 @@ $ touch Cartfile
 $ carthage update --platform iOS
 ```
 ###### Create Xcode build, navigate to your xcode proj folder and run this:
+in path: /usr/local/lib/node_modules/appium/node_modules/appium-xcuitest-driver/WebDriverAgent
 ```
 $ xcodebuild -sdk iphonesimulator -scheme CWT
 $ npm install -g ios-deploy
 $ brew install carthage ./Scripts/bootstrap.sh –d
-```
-in path: /usr/local/lib/node_modules/appium/node_modules/appium-xcuitest-driver/WebDriverAgent
+``'
 
 
 Navigate to: {your_user}/node_modules/appium/node_modules/appium-xcuitest-driver/	
