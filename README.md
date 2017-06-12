@@ -94,7 +94,7 @@ $ npm install -g ios-deploy
 $ brew install carthage ./Scripts/bootstrap.sh –d
 ```
 
-
+###### Install Scripts
 Navigate to: {your_user}/node_modules/appium/node_modules/appium-xcuitest-driver/	
 ```
 $ install Scripts/bootstrap.sh –d
