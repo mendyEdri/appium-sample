@@ -92,7 +92,7 @@ in path: /usr/local/lib/node_modules/appium/node_modules/appium-xcuitest-driver/
 $ xcodebuild -sdk iphonesimulator -scheme CWT
 $ npm install -g ios-deploy
 $ brew install carthage ./Scripts/bootstrap.sh –d
-``'
+```
 
 
 Navigate to: {your_user}/node_modules/appium/node_modules/appium-xcuitest-driver/	
